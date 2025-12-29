@@ -45,6 +45,7 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1354" height="632" alt="Screenshot 2025-12-08 210115" src="https://github.com/user-attachments/assets/1724836e-1828-4e97-af8b-6794f6cc4293" />
 4. About Us
 <img width="1361" height="633" alt="Screenshot 2025-12-08 210133" src="https://github.com/user-attachments/assets/44a6d3aa-38a9-415c-8667-17ac7fb4ad8f" />
+5. Keranjang
 <img width="1357" height="627" alt="Screenshot 2025-12-08 210227" src="https://github.com/user-attachments/assets/ee797934-71e1-4a09-8fc8-d7244819f6a7" />
 <img width="1362" height="630" alt="Screenshot 2025-12-08 210316" src="https://github.com/user-attachments/assets/bbbf0c74-aa35-493a-8909-66349541b46d" />
 <img width="1360" height="627" alt="Screenshot 2025-12-08 210339" src="https://github.com/user-attachments/assets/16c53f74-281f-40b1-9168-d835fb8191c9" />
