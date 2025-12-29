@@ -29,7 +29,9 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1345" height="617" alt="Screenshot 2025-12-08 205502" src="https://github.com/user-attachments/assets/39c03e6d-81af-4b23-b0c9-4a39c90f4a1e" />
 2. Dashboard Vendor
 <img width="1358" height="628" alt="Screenshot 2025-12-08 204413" src="https://github.com/user-attachments/assets/89ed62c2-ae8a-4b4c-bb1d-f11d2aa5e295" />
+3. Produk Vendor (TOKO)
 <img width="1356" height="625" alt="Screenshot 2025-12-08 204500" src="https://github.com/user-attachments/assets/a1eef80b-acf5-4f0b-a51b-2bb17e18f9fa" />
+4. Order (Pembeli)
 <img width="1358" height="627" alt="Screenshot 2025-12-08 204652" src="https://github.com/user-attachments/assets/39a0d5d5-dca4-44ee-91b2-0172b70145c3" />
 <img width="1358" height="629" alt="Screenshot 2025-12-08 204759" src="https://github.com/user-attachments/assets/6e6c7a83-6d3d-4213-9ae7-f1993b5c6fb8" />
 <img width="1359" height="626" alt="Screenshot 2025-12-08 204848" src="https://github.com/user-attachments/assets/445e32f8-d3cc-4956-bcf0-abb65d54043e" />
