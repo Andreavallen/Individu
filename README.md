@@ -15,7 +15,9 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1360" height="629" alt="Screenshot 2025-12-08 203245" src="https://github.com/user-attachments/assets/94c52c60-ee9e-4f79-8991-477ed8a1c1e7" />
 6. Jumlah Vendor
 <img width="1352" height="623" alt="Screenshot 2025-12-08 203737" src="https://github.com/user-attachments/assets/53f6c9b4-2550-4d3c-ac06-e19000137b5e" />
+7. Jumlah Client (pengguna)
 <img width="1362" height="628" alt="Screenshot 2025-12-08 203846" src="https://github.com/user-attachments/assets/3239b3a8-54b3-4b19-98bb-02766bb56c1b" />
+8. Mencetak Stuk
 <img width="1362" height="622" alt="Screenshot 2025-12-08 204058" src="https://github.com/user-attachments/assets/21a4c1c2-a2a3-4dd5-8fc0-563b139773d2" />
 <img width="1359" height="624" alt="Screenshot 2025-12-08 204147" src="https://github.com/user-attachments/assets/67981189-8814-420e-84f7-e7f9c2bd8303" />
 <img width="1347" height="624" alt="Screenshot 2025-12-08 204217" src="https://github.com/user-attachments/assets/cb0a462b-af08-422a-a895-69c387eeb16c" />
