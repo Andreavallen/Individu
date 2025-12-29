@@ -1,5 +1,10 @@
 Andrea Vallen Dellyco - 221011400735 - 07TPLP018
+Sistem Informasi Supermarket ini digunakan oleh Kepala Gudang untuk mengelola data barang dan stok secara terpusat. Melalui sistem ini, kepala gudang dapat memantau ketersediaan barang, memperbarui stok, serta mengelola permintaan barang ke supplier dengan lebih efisien.
+
+Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan stok, serta laporan barang masuk dan keluar. Dengan adanya sistem ini, proses pengelolaan gudang menjadi lebih terstruktur, cepat, dan akurat.
+1. Halaman Dashboard
 <img width="1356" height="579" alt="Screenshot 2025-12-08 202622" src="https://github.com/user-attachments/assets/e99f09cb-63ad-4459-96bb-a42a2772a43d" />
+2. Login Admin
 <img width="1355" height="624" alt="Screenshot 2025-12-08 202930" src="https://github.com/user-attachments/assets/928b2451-fe95-48f6-a0f0-8d1aa0ebac8a" />
 <img width="1364" height="630" alt="Screenshot 2025-12-08 202955" src="https://github.com/user-attachments/assets/f4d21f57-f0fc-4dd2-8a47-cc34ca20633d" />
 <img width="1362" height="624" alt="Screenshot 2025-12-08 203042" src="https://github.com/user-attachments/assets/72392e0a-8e1f-42b6-a1a7-1d410721d21b" />
