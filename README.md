@@ -25,7 +25,9 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1347" height="624" alt="Screenshot 2025-12-08 204217" src="https://github.com/user-attachments/assets/cb0a462b-af08-422a-a895-69c387eeb16c" />
 11. Pengaturan Admin
 <img width="1363" height="630" alt="Screenshot 2025-12-08 204241" src="https://github.com/user-attachments/assets/3c00691e-3a3c-4247-a82f-9ec39db2a865" />
+1. Login Vendor (TOKO)
 <img width="1345" height="617" alt="Screenshot 2025-12-08 205502" src="https://github.com/user-attachments/assets/39c03e6d-81af-4b23-b0c9-4a39c90f4a1e" />
+2. Dashboard Vendor
 <img width="1358" height="628" alt="Screenshot 2025-12-08 204413" src="https://github.com/user-attachments/assets/89ed62c2-ae8a-4b4c-bb1d-f11d2aa5e295" />
 <img width="1356" height="625" alt="Screenshot 2025-12-08 204500" src="https://github.com/user-attachments/assets/a1eef80b-acf5-4f0b-a51b-2bb17e18f9fa" />
 <img width="1358" height="627" alt="Screenshot 2025-12-08 204652" src="https://github.com/user-attachments/assets/39a0d5d5-dca4-44ee-91b2-0172b70145c3" />
