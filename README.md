@@ -41,7 +41,9 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1357" height="621" alt="Screenshot 2025-12-08 221945" src="https://github.com/user-attachments/assets/d605fd06-62ea-4911-b779-5fdca3165edc" />
 2. Dashboard Client (Pembeli)
 <img width="1362" height="620" alt="Screenshot 2025-12-08 210054" src="https://github.com/user-attachments/assets/138de99a-e028-4a82-8130-90642d153ec9" />
+3. Produk
 <img width="1354" height="632" alt="Screenshot 2025-12-08 210115" src="https://github.com/user-attachments/assets/1724836e-1828-4e97-af8b-6794f6cc4293" />
+4. About Us
 <img width="1361" height="633" alt="Screenshot 2025-12-08 210133" src="https://github.com/user-attachments/assets/44a6d3aa-38a9-415c-8667-17ac7fb4ad8f" />
 <img width="1357" height="627" alt="Screenshot 2025-12-08 210227" src="https://github.com/user-attachments/assets/ee797934-71e1-4a09-8fc8-d7244819f6a7" />
 <img width="1362" height="630" alt="Screenshot 2025-12-08 210316" src="https://github.com/user-attachments/assets/bbbf0c74-aa35-493a-8909-66349541b46d" />
