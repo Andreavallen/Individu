@@ -19,8 +19,11 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 <img width="1362" height="628" alt="Screenshot 2025-12-08 203846" src="https://github.com/user-attachments/assets/3239b3a8-54b3-4b19-98bb-02766bb56c1b" />
 8. Mencetak Stuk
 <img width="1362" height="622" alt="Screenshot 2025-12-08 204058" src="https://github.com/user-attachments/assets/21a4c1c2-a2a3-4dd5-8fc0-563b139773d2" />
+9. Daftar Jenis Toko
 <img width="1359" height="624" alt="Screenshot 2025-12-08 204147" src="https://github.com/user-attachments/assets/67981189-8814-420e-84f7-e7f9c2bd8303" />
+10. Daftar Pengguna
 <img width="1347" height="624" alt="Screenshot 2025-12-08 204217" src="https://github.com/user-attachments/assets/cb0a462b-af08-422a-a895-69c387eeb16c" />
+11. Pengaturan Admin
 <img width="1363" height="630" alt="Screenshot 2025-12-08 204241" src="https://github.com/user-attachments/assets/3c00691e-3a3c-4247-a82f-9ec39db2a865" />
 <img width="1345" height="617" alt="Screenshot 2025-12-08 205502" src="https://github.com/user-attachments/assets/39c03e6d-81af-4b23-b0c9-4a39c90f4a1e" />
 <img width="1358" height="628" alt="Screenshot 2025-12-08 204413" src="https://github.com/user-attachments/assets/89ed62c2-ae8a-4b4c-bb1d-f11d2aa5e295" />
