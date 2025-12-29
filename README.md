@@ -11,7 +11,9 @@ Sistem menyediakan fitur login, dashboard, pengelolaan data barang, pengelolaan 
 4. Melihat Produk
 <img width="1362" height="624" alt="Screenshot 2025-12-08 203042" src="https://github.com/user-attachments/assets/72392e0a-8e1f-42b6-a1a7-1d410721d21b" />
 <img width="1353" height="620" alt="Screenshot 2025-12-08 203101" src="https://github.com/user-attachments/assets/a599f3b6-b92a-4f17-8f6e-a5f9ce5acc4f" />
+5. Melihat Order
 <img width="1360" height="629" alt="Screenshot 2025-12-08 203245" src="https://github.com/user-attachments/assets/94c52c60-ee9e-4f79-8991-477ed8a1c1e7" />
+6. Jumlah Vendor
 <img width="1352" height="623" alt="Screenshot 2025-12-08 203737" src="https://github.com/user-attachments/assets/53f6c9b4-2550-4d3c-ac06-e19000137b5e" />
 <img width="1362" height="628" alt="Screenshot 2025-12-08 203846" src="https://github.com/user-attachments/assets/3239b3a8-54b3-4b19-98bb-02766bb56c1b" />
 <img width="1362" height="622" alt="Screenshot 2025-12-08 204058" src="https://github.com/user-attachments/assets/21a4c1c2-a2a3-4dd5-8fc0-563b139773d2" />
